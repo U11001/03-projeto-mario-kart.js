@@ -1,0 +1,15 @@
+{
+  "name": "mario-kart",
+  "version": "1.0.0",
+  "description": "Projeto de desafio Node.js Mario Kart",
+  "main": "mario-kart.js",
+  "scripts": {
+    "start": "node  mario-kart.js",
+   
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "keywords": ["nodejs", "dio", "mario-kart", "desafio"],
+  "author": "uanderson-rocha",
+  "license": "ISC"
+}
